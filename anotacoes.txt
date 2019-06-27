@@ -1,0 +1,13 @@
+﻿dotnet -h para help
+dotnet watch run 
+extensões:
+    1.@installed -> instalado
+    2.C#;
+    3. C# Extensions;
+    4. Brackt Pair Colorizer;
+    5. Material Icon Theme;
+    6. Path Intellisense;
+    7. Nuget Package Manager
+Criar projeto console
+    1. dotnet new console -n GameTop
+    2. dotnet run
