@@ -1,5 +1,6 @@
 ﻿dotnet -h para help
 dotnet watch run 
+dotnet run ->rodar a aplicacao
 extensões:
     1.@installed -> instalado
     2.C#;
@@ -11,3 +12,7 @@ extensões:
 Criar projeto console
     1. dotnet new console -n GameTop
     2. dotnet run
+Criar projeto web
+    1. dotnet new web -n nome_projeto.Web
+    2. dotnet new mvc -n nome_projeto.MVC //mvc
+    2. dotnet new webapi -n nome_projeto.API //WebAPI
