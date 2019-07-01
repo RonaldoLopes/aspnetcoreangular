@@ -16,3 +16,12 @@ Criar projeto web
     1. dotnet new web -n nome_projeto.Web
     2. dotnet new mvc -n nome_projeto.MVC //mvc
     2. dotnet new webapi -n nome_projeto.API //WebAPI
+Nuget   
+    1. ctrl+shit+p;
+    2. Escolher nuget;
+    3. executar dotnet build;
+EntityFramework
+    1. dotnet ef; 
+    2. dotnet ef migrations -h; //ver comandos
+    3. dotnet ef migrations add init;
+    4. dotnet ef database update
