@@ -7,16 +7,18 @@ import { AppComponent } from './app.component';
 import { EventosComponent } from './eventos/eventos.component';
 import { HttpClient } from 'selenium-webdriver/http';
 import { from } from 'rxjs';
+import { NavComponent } from './nav/nav.component';
 
 @NgModule({
    declarations: [
       AppComponent,
-      EventosComponent
+      EventosComponent,
+      NavComponent
    ],
    imports: [
       BrowserModule,
       AppRoutingModule,
-      HttpClientModule,
+      HttpClientModule
    ],
    providers: [],
    bootstrap: [
