@@ -8,7 +8,17 @@ extensões:
     4. Brackt Pair Colorizer;
     5. Material Icon Theme;
     6. Path Intellisense;
-    7. Nuget Package Manager
+    7. Nuget Package Manager;
+    8. Angular Files;
+    9. Angular Language Service;
+    10.angular2-switcher;
+    11.Auto Rename Tag;
+    12.Debugger for Chrome;
+    13.Live Server;
+    14.npm;
+    15.Prettier - Code formatter;
+    16.TsLint
+
 Criar projeto console
     1. dotnet new console -n GameTop
     2. dotnet run
@@ -25,3 +35,8 @@ EntityFramework
     2. dotnet ef migrations -h; //ver comandos
     3. dotnet ef migrations add init;
     4. dotnet ef database update
+Angular
+    1. npm install -g @angular/cli
+    2. cli.angular.io
+    3. ng new ProAgil-App
+    4. ng serve -o
