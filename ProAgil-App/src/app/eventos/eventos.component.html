@@ -8,6 +8,7 @@
   <thead class="thead-dark">
     <th>#</th>
     <th>Tema</th>
+    <th>Imagem</th>
     <th>Local</th>
     <th>Data</th>
     <th>Quantidade Pessoas</th>
@@ -16,7 +17,8 @@
   </thead>
   <tbody *ngIf="eventos && eventos.length">
     <tr *ngFor="let evento of eventos">
-      <td></td>
+      <td>{{evento.enventoId}}</td>
+      <td>{{evento.imagemURL}}</td>
       <td>{{evento.tema}}</td>
       <td>{{evento.local}}</td>
       <td>{{evento.dataEvento}}</td>
