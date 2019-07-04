@@ -44,3 +44,9 @@ Angular
 bootstrap
     1. npm i --save bootstrap @fortawesome/fontawesome-free
     2. referenciar no angular.json para isso importar no styles.css
+Criar novas camadas
+    1.dotnet new classlib -n nome.Domain
+    2.dotnet new classlib -n nome.Repository
+    3.dotnet new sln -n nome_solucao  
+    4.deletar class criado as bibliotecas  
+    4.1 rm -R local do arquivo

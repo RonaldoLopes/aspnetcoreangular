@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj": {}
+    "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Domain\\ProAgil.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj": {
+    "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Domain\\ProAgil.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj",
-        "projectName": "ProAgil.API",
-        "projectPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj",
+        "projectUniqueName": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Domain\\ProAgil.Domain.csproj",
+        "projectName": "ProAgil.Domain",
+        "projectPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Domain\\ProAgil.Domain.csproj",
         "packagesPath": "C:\\Users\\Risc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\obj\\",
+        "outputPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -41,27 +41,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             }
           },

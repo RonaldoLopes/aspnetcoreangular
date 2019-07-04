@@ -12461,11 +12461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj",
+      "projectUniqueName": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.API\\ProAgil.API.csproj",
       "projectName": "ProAgil.API",
-      "projectPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\ProAgil.API.csproj",
+      "projectPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.API\\ProAgil.API.csproj",
       "packagesPath": "C:\\Users\\Risc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\proagil\\ProAgil.API\\obj\\",
+      "outputPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
