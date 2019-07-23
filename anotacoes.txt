@@ -49,4 +49,15 @@ Criar novas camadas
     2.dotnet new classlib -n nome.Repository
     3.dotnet new sln -n nome_solucao  
     4.deletar class criado as bibliotecas  
-    4.1 rm -R local do arquivo
+    4.1. rm -R local do arquivo
+    5.dotnet add ProAgil.Repository/ProAgil.Repository.csproj reference ProAgil.Domain/ProAgil.Domain.csproj  //refenciar projeto
+    5.1.dotnet add ProAgil.API/ProAgil.API.csproj reference ProAgil.Domain/ProAgil.Domain.csproj  //refenciar projeto
+    5.2.dotnet add ProAgil.API/ProAgil.API.csproj reference ProAgil.Repository/ProAgil.Repository.csproj  //refenciar projeto
+    5.3.dotnet sln ProAgil.sln add ProAgil.API/ProAgil.API.csproj ProAgil.Repository/ProAgil.Repository.csproj ProAgil.Domain/ProAgil.Domain.csproj  //adicionar na solução
+    5.4. dotnet build na raiz
+Entidades
+   1. ctrl+shift+p -> nuget
+    1.1 Microsoft.EntityFrameworkCore.Sqlite 
+   2.dotnet ef no Repository
+   3.dotnet ef --startup-project ../Caminho_API migrations add init //necessário para referenciar um projeto
+   4.dotnet ef --startup-project ../Caminho_API database update //dentro de Repository
