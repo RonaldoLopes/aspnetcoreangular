@@ -25,9 +25,9 @@ namespace ProAgil.API.Controllers
                 var results = await _repo.GetAllEventoAsync(true);
                 return Ok(results);
             }
-            catch (System.Exception)
+            catch (System.Exception ex)
             {
-                return this.StatusCode(StatusCodes.Status500InternalServerError, "Banco de Dados Falhou");
+                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Banco de Dados Falhou {ex.Message}");
             }
             
         }
@@ -74,9 +74,9 @@ namespace ProAgil.API.Controllers
                     return Created($"/api/evento/{model.Id}", model);
                 }
             }
-            catch (System.Exception)
+            catch (System.Exception ex)
             {
-                return this.StatusCode(StatusCodes.Status500InternalServerError, "Banco de Dados Falhou");
+                return this.StatusCode(StatusCodes.Status500InternalServerError, $"Banco de Dados Falhou {ex.Message}");
             }
             return BadRequest();
             

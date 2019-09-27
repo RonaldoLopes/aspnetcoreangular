@@ -61,3 +61,5 @@ Entidades
    2.dotnet ef no Repository
    3.dotnet ef --startup-project ../Caminho_API migrations add init //necessário para referenciar um projeto
    4.dotnet ef --startup-project ../Caminho_API database update //dentro de Repository
+Criar interfaces
+    1.

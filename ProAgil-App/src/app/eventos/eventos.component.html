@@ -16,7 +16,7 @@
     <th>Data</th>
     <th>Quantidade Pessoas</th>
     <th>Lote</th>
-    <th>Opções</th>
+    <th colspan="2">Opções</th>
   </thead>
   <tbody *ngIf="eventos && eventos.length">
     <tr *ngFor="let evento of eventosFiltrados">
@@ -27,12 +27,12 @@
         [style.margin.px]= "imagemMargem"
         >   
       </td>
-      <td>{{evento.enventoId}}</td>
+      <td>{{evento.id}}</td>
       <td>{{evento.tema }}</td>
       <td>{{evento.local}}</td>
       <td>{{evento.dataEvento}}</td>
       <td>{{evento.qtdePessoas}}</td>
-      <td>{{evento.lote | uppercase}}</td>
+      <td>{{evento.lotes | uppercase}}</td>
       <td>
         <button class="btn btn-success"></button>
         <button class="btn btn-danger"></button>

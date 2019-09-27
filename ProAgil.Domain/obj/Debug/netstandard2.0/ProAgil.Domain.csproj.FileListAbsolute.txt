@@ -6,3 +6,4 @@ C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Domain\obj\Debug
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb
+C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
