@@ -1,6 +1,9 @@
 ﻿dotnet -h para help
 dotnet watch run 
 dotnet run ->rodar a aplicacao
+ctrl + D = Selecionar tudo igual
+shit+ctrl+alt = seleção em bloco
+ctrl+shit+p = tolowercase entre outros
 extensões:
     1.@installed -> instalado
     2.C#;
