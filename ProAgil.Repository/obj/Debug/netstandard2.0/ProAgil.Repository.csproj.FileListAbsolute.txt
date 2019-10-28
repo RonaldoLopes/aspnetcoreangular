@@ -4,7 +4,6 @@ C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\bin\D
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
-C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete

@@ -4056,11 +4056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\ProAgil.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\ProAgil.Repository.csproj",
       "projectName": "ProAgil.Repository",
-      "projectPath": "c:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\ProAgil.Repository.csproj",
+      "projectPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\ProAgil.Repository.csproj",
       "packagesPath": "C:\\Users\\Risc\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Risc\\Documents\\MEUSR\\fontes\\apsnetcoreangular2\\ProAgil.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4112,10 +4112,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

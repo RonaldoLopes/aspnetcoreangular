@@ -8,7 +8,6 @@ C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\ne
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Domain.pdb
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\netcoreapp2.2\ProAgil.Repository.pdb
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csprojAssemblyReference.cache
-C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CoreCompileInputs.cache
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cache
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.RazorAssemblyInfo.cs
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.AssemblyInfoInputs.cache
@@ -17,3 +16,6 @@ C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\ne
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.csproj.CopyComplete
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.dll
 C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\obj\Debug\netcoreapp2.2\ProAgil.API.pdb
+C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Risc\Documents\MEUSR\fontes\apsnetcoreangular2\ProAgil.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

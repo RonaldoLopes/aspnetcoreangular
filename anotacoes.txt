@@ -66,3 +66,14 @@ Entidades
    4.dotnet ef --startup-project ../Caminho_API database update //dentro de Repository
 Criar interfaces
     1.
+Criar helper dentro do angular
+    1.Botão direito generate pipe
+    2.criar diretorio util
+    3.generate class
+    4. importar os pipes no app-module
+Componente para angular
+    1.ngx-bootstrap
+    2. instalar no angular
+    3. importar no app-module
+Reactive forms
+Não esquecer de colocar dentro do styles.css os arquivos como date picker
